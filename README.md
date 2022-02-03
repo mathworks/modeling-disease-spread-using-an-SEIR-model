@@ -14,3 +14,7 @@ The model equations in the Live Script that make up the SEIR model are based on 
 ![plot](Image.png)
 
 **Product Requirement** : MATLAB (Tested with R2021b)
+
+This Live Script was created for the 2022 M3 Challenge Live Chat.
+
+Copyright 2022 The MathWorks, Inc.
